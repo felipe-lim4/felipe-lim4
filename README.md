@@ -6,51 +6,70 @@
 
 <p align="left">
   <a href="https://github.com/felipe-lim4">
-    <img src="https://img.shields.io/github/followers/felipe-lim4?style=for-the-badge&label=Followers" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/felipe-lim4">
-    <img src="https://komarev.com/ghpvc/?username=felipe-lim4&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/felipe-acbb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:felipe.acbb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 </p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou apaixonado por **Dados, Inteligência Artificial e desenvolvimento de software**.
 
-Minha trajetória começou com desenvolvimento e IA e, atualmente, venho direcionando cada vez mais meu foco para **Data Science, Machine Learning, IA Generativa e AI Engineering**, buscando entender não apenas o modelo, mas todo o caminho entre o problema, os dados, a solução e sua disponibilização em produção.
+Minha trajetória passa por **IA, Data Science e desenvolvimento**, e hoje meu foco está em construir soluções que conectem dados, Machine Learning e IA Generativa, levando essas soluções do experimento para aplicações reais.
 
-Gosto especialmente de construir soluções que conectem:
-
-**Dados → Machine Learning → IA Generativa → APIs → Cloud → Produção**
+**Dados → ML → IA Generativa → APIs → Cloud → Produção**
 
 ---
 
-## 🧠 O que venho construindo
+## 🛠️ Tecnologias
 
-```text
-                    ┌──────────────────────┐
-                    │        DADOS         │
-                    │ Pandas · SQL · EDA   │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │   MACHINE LEARNING   │
-                    │ Scikit-Learn · ML    │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │     IA GENERATIVA    │
-                    │ LLM · RAG · Agents   │
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │   AI ENGINEERING     │
-                    │ APIs · Docker · CI/CD│
-                    └──────────┬───────────┘
-                               ↓
-                    ┌──────────────────────┐
-                    │       CLOUD          │
-                    │ Azure · AWS · Deploy │
-                    └──────────────────────┘
+### 📊 Data Science & AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker" />
+</p>
+
+`Python` · `Pandas` · `Scikit-Learn` · `Machine Learning` · `EDA` · `LLMs` · `RAG` · `LangChain` · `AgentCore` · `Amazon Bedrock` · `FastAPI`
+
+### ☁️ Cloud, DevOps & Deploy
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions" />
+</p>
+
+`Azure` · `AWS` · `Docker` · `Docker Compose` · `CI/CD` · `GitHub Actions` · `Deploy`
+
+### 🗄️ Experiência com Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,react,typescript,java,spring,git,github" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `React` · `TypeScript` · `Java` · `Spring` · `Git`
+
+---
+
+## Github
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-lim4&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-lim4&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe-lim4&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <b>Always learning. Always building.</b>
+</p>
